@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to the guide
 
-I'm glad you are here. I plan to talk about ...
+Here you can find documents and checklists.
